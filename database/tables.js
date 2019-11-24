@@ -1,6 +1,6 @@
 const tables = {
   contacts: 'contactos',
-  activity: 'actividades'
+  activities: 'actividades'
 }
 
 module.exports = tables;
